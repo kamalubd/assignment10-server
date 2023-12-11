@@ -1,0 +1,24 @@
+[{
+    "id": "01", "coursename": "Basic Javascript","price": "10","lessons": "20", "instructor": "Andy", "video-length": "4 hours", "features":[{"feature01": "Basic of Javascript"},{"feature02": "On Demand Videos"},{"feature03": "Life-time Access"},{"feature04": "Instructor Support by Q&A"},{"feature05": "Quiz after each Lesson"}
+], "imgurl":"https://testing-zline.myshopify.com/cdn/shop/files/basic-js_713x.jpg"
+  },
+{
+    "id": "02", "coursename": "Intermediate Javascript","price": "15","lessons": "30", "instructor": "Roland", "video-length": "6 hours", "features":[{"feature01": "Basic to Intermediate Javascript"},{"feature02": "On Demand Videos"},{"feature03": "Life-time Access"},{"feature04": "Instructor Support by Q&A"},{"feature05": "Quiz after each Lesson"}
+], "imgurl":"https://testing-zline.myshopify.com/cdn/shop/files/inter-js.jpg"
+  },
+{
+    "id": "03", "coursename": "Advanced Javascript","price": "30","lessons": "30", "instructor": "Kamal Uddin", "video-length": "7 hours" ,  "features":[{"feature01": "Advanced Javascript Concepts"},{"feature02": "On Demand Videos"},{"feature03": "Life-time Access"},{"feature04": "Instructor Support by Q&A"},{"feature05": "Quiz after each Lesson"}
+], "imgurl":"https://testing-zline.myshopify.com/cdn/shop/files/advancedjs_713x.jpg"
+  },
+{
+    "id": "04", "coursename": "Javascript + Basic React","price": "40","lessons": "40", "instructor": "Andy & Ronald", "video-length": "12 hours",  "features":[{"feature01": "Javascript advanced Concept & React Basic"},{"feature02": "On Demand Videos"},{"feature03": "Life-time Access"},{"feature04": "Instructor Support by Q&A"},{"feature05": "Quiz after each Lesson"}
+], "imgurl":"https://testing-zline.myshopify.com/cdn/shop/files/react.png"
+  },
+{
+    "id": "05", "coursename": "Frontend with Javascript","price": "20","lessons": "15", "instructor": "Tanim Maddy", "video-length": "6 hours",  "features":[{"feature01": "Advanced Javascript & React Js"},{"feature02": "On Demand Videos"},{"feature03": "Life-time Access"},{"feature04": "Instructor Support by Q&A"},{"feature05": "Quiz after each Lesson"}
+], "imgurl":"https://testing-zline.myshopify.com/cdn/shop/files/cover-React.js_713x.png"
+  },
+{
+    "id": "06", "coursename": "Fullstack with Javascript + Nodejs","price": "60","lessons": "40", "instructor": "Jhankar Mahbub", "video-length": "20 hours",  "features":[{"feature01": "Javascript, React JS & NodeJs"},{"feature02": "On Demand Videos"},{"feature03": "Life-time Access"},{"feature04": "Instructor Support by Q&A"},{"feature05": "Quiz after each Lesson"}
+], "imgurl":"https://testing-zline.myshopify.com/cdn/shop/files/nodejs_713x.jpg"
+  }]
